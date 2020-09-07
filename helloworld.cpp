@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {  
-    /add comment
+    //add comment
     string r;
     cout << "Enter Something new again" << endl;
     cin>>r;
